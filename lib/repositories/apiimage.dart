@@ -4,7 +4,7 @@ import 'package:image_gallery_saver/image_gallery_saver.dart';
 import 'package:social_app/model/imageApi.dart';
 
 class Api {
-  final String apikey = "oPT3SOse8-C2mduVWRbNkO7b7h69dQu-adCoJ3CJZZQ";
+  final String apikey = "";
 
   Future<GetApiAll?> getApiImage({required String query}) async {
     String Url =

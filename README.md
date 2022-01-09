@@ -8,6 +8,7 @@ link git : https://github.com/hungtrandinh/social_app_flutter_blocs.git
 key API ảnh đăng ký tại : https://unsplash.com/developers
 Lấy key API và thay thế vào file "lib/repositories/apiimage.dart" tại dòng 
 final String apikey = "thêm key của mình tại đây"
+Minh có sử dụng chức năng firebase functions của firebase . nên muốn dùng chức năng này phải nâng cấp gói sử dụng firebase nha                                                                                              
 "lưu ý minh đã test trên ios 14.4 mình k thể lấy được ảnh từ drive nếu ai gặp chung tình trạng thì có thể xài ios version khác "
 # Hinh anh
 
@@ -24,6 +25,8 @@ final String apikey = "thêm key của mình tại đây"
 ![anh](https://github.com/hungtrandinh/social_app_flutter_blocs/blob/master/screenshot/%E1%BA%A2nh%20ch%E1%BB%A5p%20M%C3%A0n%20h%C3%ACnh%202022-01-09%20l%C3%BAc%2014.31.31.png)
 ![anh](https://github.com/hungtrandinh/social_app_flutter_blocs/blob/master/screenshot/%E1%BA%A2nh%20ch%E1%BB%A5p%20M%C3%A0n%20h%C3%ACnh%202022-01-09%20l%C3%BAc%2014.31.50.png)
 ![anh](https://github.com/hungtrandinh/social_app_flutter_blocs/blob/master/screenshot/%E1%BA%A2nh%20ch%E1%BB%A5p%20M%C3%A0n%20h%C3%ACnh%202022-01-09%20l%C3%BAc%2014.32.10.png)
+![anh](https://github.com/hungtrandinh/social_app_flutter_blocs/blob/master/screenshot/anh1.png)
+![anh](https://github.com/hungtrandinh/social_app_flutter_blocs/blob/master/screenshot/anh2.png)
 
 # Tính Năng của ứng dụng 
 - Đăng nhập
