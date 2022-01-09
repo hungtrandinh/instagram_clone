@@ -1,16 +1,13 @@
 # social_app
 
-A new Flutter project.
+Do kiến thức mình của mình đi cóp nhặt nên có một số chức năng mình làm chưa được chuẩn và chưa được chính xác mong các bạn thông cảm <3 !!!
 
-## Getting Started
+# Hướng dẫn download
+link git : https://github.com/hungtrandinh/social_app_flutter_blocs.git
 
-This project is a starting point for a Flutter application.
+key API ảnh đăng ký tại : https://unsplash.com/developers
+Lấy key API và thay thế vào file "lib/repositories/apiimage.dart" tại dòng 
+final String apikey = "thêm key của mình tại đây";
+# Hinh anh
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![anh](https://github.com/hungtrandinh/social_app_flutter_blocs/tree/master/screenshot)
