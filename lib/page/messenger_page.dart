@@ -133,7 +133,7 @@ class ChatPageState extends State<PageChat> {
   }
 
   Future<XFile?> cropimage(XFile file) async {
-    File? _cropper = await ImageCropper.cropImage(
+    File? _cropper = await ImageCropper().cropImage(
         sourcePath: file.path,
         aspectRatio: CropAspectRatio(ratioX: 16, ratioY: 9),
         compressQuality: 100,

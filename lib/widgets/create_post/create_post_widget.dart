@@ -135,7 +135,7 @@ class _CreatePostWidgetState extends State<CreatePostWidget> {
   }
 
   Future<XFile?> cropimage(XFile file) async {
-    File? _cropper = await ImageCropper.cropImage(
+    File? _cropper = await ImageCropper().cropImage(
         sourcePath: file.path,
         aspectRatio: CropAspectRatio(ratioX: 16, ratioY: 16),
         compressQuality: 100,
